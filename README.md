@@ -35,14 +35,13 @@
 ![Stackblitz](https://img.shields.io/badge/Stackblitz-fff?style=flat&logo=Stackblitz&logoColor=1389FD)
 ![Github](https://img.shields.io/badge/Github%20Codespace-000000.svg?style=flat&logo=github&logoColor=white)
 
-
-
 ## OS
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat&logo=Windows%2011&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
+
 
 
 

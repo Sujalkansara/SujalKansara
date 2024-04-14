@@ -1,5 +1,6 @@
-
+![banner1](https://github.com/Sujalkansara/SujalKansara/assets/98224351/23e8cf4c-44c7-4547-8292-43ddaddd7845)
 ## 👋 About Me:
+
 
 - 🔭 I’m currently working on improving my frontend skills.
 - 🌱 I’m currently learning Backend development.

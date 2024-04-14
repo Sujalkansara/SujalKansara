@@ -1,6 +1,4 @@
 
-![1713008241157](https://github.com/Sujalkansara/SujalKansara/assets/98224351/331f26f2-41bd-44bf-a5dc-2c0f7ee76657)
-
 ## 👋 About Me:
 
 - 🔭 I’m currently working on improving my frontend skills.

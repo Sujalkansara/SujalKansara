@@ -26,7 +26,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 
-## IDE's 
+## 💻 IDE's 
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=flat&logo=android%20studio&logoColor=white)
@@ -35,7 +35,7 @@
 ![Stackblitz](https://img.shields.io/badge/Stackblitz-fff?style=flat&logo=Stackblitz&logoColor=1389FD)
 ![Github](https://img.shields.io/badge/Github%20Codespace-000000.svg?style=flat&logo=github&logoColor=white)
 
-## OS
+## 🎛️ OS
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat&logo=Windows%2011&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)

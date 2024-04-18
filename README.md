@@ -23,7 +23,7 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=yarn&logoColor=white)
-![PUG](https://img.shields.io/badge/PUG-%23CB3837.svg?style=flat&logo=pug&logoColor=white)
+![PUG](https://img.shields.io/badge/PUG-FFF.svg?style=flat&logo=pug&logoColor=A86454)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)

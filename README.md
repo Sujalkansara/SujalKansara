@@ -9,6 +9,7 @@
 - 📫 You can reach me at: kansarasujal72@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to explore and learn new technology.
+- 🧑‍💻 Dream: I want to become a Research Scientist.
 
 ## 📊 Skills
 

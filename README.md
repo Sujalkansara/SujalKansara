@@ -8,7 +8,7 @@
 - 💬 Feel free to ask me about anything. I am always happy to learn more.
 - 📫 You can reach me at: kansarasujal72@gmail.com 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to explore and learn new technology.
+- ⚡ Fun fact: I am always curious to explore and learn new technology.
 - 🧑‍💻 Dream: I want to become a Research Scientist.
 
 ## 📊 Skills

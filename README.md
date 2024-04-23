@@ -52,7 +52,7 @@
 <p align="center">
   <br/>
    <br/>
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50%">
 </p>
 
 
